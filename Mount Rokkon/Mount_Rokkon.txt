@@ -1,0 +1,15 @@
+/p ━━━━━━  ━━━━━━
+/p ┏━━━━ Boss 1━━━━┓┏━━━━ Boss 2━━━━┓
+/p  : North/Left                      : N/W
+/p  : South/Right               : S/E
+/p  ━━Spread corner━━           Melees adjust
+/p         ━━━━━━ 
+/p              ┃                             LC: Spell
+/p      ┃                             Second tower: Game8
+/p ┏━━━━━━━━━━━━━━━ Boss 3━━━━━━━━━━━━━━┓
+/p ┏━Fire Iai-giri━┓┏━Clones & hands━┓┏━━━4 clones━━━┓
+/p  : Left                     : NW                                            
+/p  : Right              : SE                                         
+/p  Spread =                      Melees adjust                                 
+/p  Ranged at wall                                                        Far from blue = stay
+/p                                                                                        Close to blue = adjust
